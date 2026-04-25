@@ -1,0 +1,32 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.18.0
+webdriver-manager>=4.0.0
+lxml>=5.0.0
+
+# NLP / preprocessing
+nltk>=3.8.1
+scikit-learn>=1.4.0
+
+# Deep learning / BERT
+torch>=2.2.0
+transformers>=4.38.0
+accelerate>=0.27.0
+
+# Visualisation
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.19.0
+wordcloud>=1.9.3
+
+# Dashboard
+streamlit>=1.32.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.0
